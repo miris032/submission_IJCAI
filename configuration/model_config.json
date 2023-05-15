@@ -1,0 +1,25 @@
+{
+  "slidshaps": {
+    "statistical_test": [
+      "t-test"
+    ],
+    "gamma": [1],
+    "buffer_size": [10],
+    "alpha": [0.01],
+    "delta_factor": 5
+  },
+  "hdddm": {
+    "delta_factor": 10
+  },
+  "adwin": {
+    "delta_factor": 5
+
+  },
+  "pcacd": {
+    "delta_factor": 5
+
+  },
+  "kdqtree": {
+    "delta_factor": 5
+  }
+}
